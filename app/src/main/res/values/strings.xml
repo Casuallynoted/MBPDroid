@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyBank Pro</string>
+    <string name="action_settings">About</string>
+    <string name="amount_hint">Please enter an amount</string>
+    <string name="withdraw">Withdraw</string>
+    <string name="deposit">Deposit</string>
+    <string name="balance_placeholder">Your Account\'s Balance: </string>
+    <string name="cancel">Cancel</string>
+    <string name="Ok">Okay</string>
+    <string name="AppReturn">Return to App</string>
+    <string name="CodedBy">Coded by Ryan Thomas of Eden Inc.</string>
+    <string name="AboutHeader">About</string>
+    <string name="AboutText">My Bank Manager Pro was created in part by the greatest minds in the universe. Think Marie Curie, Albert Einstein, and Bill Cosby, all working together under one political party. That\'s how big this app is. If you don\'t completely understand, then I\'m sorry. There is nothing we can do to explain it to you. You are a foolish mortal who understands NOTHING.</string>
+    <string name="dialog_overdraft_account">This withdrawal will overdraft your account and make you a heathen. Proceed?</string>
+
+</resources>
